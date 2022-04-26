@@ -1,5 +1,7 @@
 # MSG-StyleGAN
 
+Reference model link : https://github.com/akanimax/msg-stylegan-tf 
+
 The code is take from the reference of stylegan model from github.
 
 The idea is to generate fake images using code files and prepare as a dataset for further implementation.
